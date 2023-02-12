@@ -85,9 +85,25 @@ Install MySQL.
 <br />
 
 <p>
-<img src="https://i.imgur.com/Lwd2bu5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sGBZreZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install PHP Manager for IIS.
+Open IIS as an Admin.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/dBwxRI3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Register PHP from within IIS.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/dBwxRI3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Reload IIS (Open IIS, Stop and Start the server).
 </p>
 <br />
