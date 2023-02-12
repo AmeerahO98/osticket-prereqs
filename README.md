@@ -101,9 +101,17 @@ Register PHP from within IIS.
 <br />
 
 <p>
-<img src="https://i.imgur.com/dBwxRI3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c7tJVeq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Reload IIS (Open IIS, Stop and Start the server).
+Install osTicket v1.15.8 and enable extensions.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/c7tJVeq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Install osTicket v1.15.8 and enable extensions.
 </p>
 <br />
