@@ -124,10 +124,12 @@ Install Heidi SQL.
 </p>
 <br />
 
+
 <p>
-<img src="https://imgur.com/a/B8BJRq4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4nvwKhZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-osTicket installation completed.
+osTicket installed with no complications.
 </p>
 <br />
+
