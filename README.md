@@ -117,9 +117,9 @@ Install osTicket v1.15.8 and enable extensions.
 <br />
 
 <p>
-<img src="https://i.imgur.com/Lwd2bu5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/owrDGyb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install PHP Manager for IIS.
+Install Heidi SQL.
 </p>
 <br />
